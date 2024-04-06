@@ -1,5 +1,5 @@
-# Coach Buddy Live Stream System 
 Empower your coaching sessions with AI intelligence for optimized guidance and impactful outcomes - all in one convenient Flutter app.
+# Coach Buddy Live Stream System 
 
 1. create a new flutter project :
 

@@ -10,4 +10,31 @@
 3. compare the pubspec.yaml file in your project and update according to the pubspec.yaml file given in the github code
 4. now you can test the app
 
+Running the Project:
+
+To run the Flutter project on your local machine or different platforms, follow these
+steps:
+
+ Open the Project:
+ Navigate to the directory where your Flutter project is located using your terminal or
+command prompt. 
+
+MAC command : (in the root directory)
+
+                  open -a simulator
+
+// wait for it to load
+
+                  flutter run
+
+for android/ windows :
+If you're planning to run the project on an emulator or physical device, ensure that it is
+properly configured and connected to your development machine.
+ For Android:
+ Open Android Studio and launch the Android Virtual Device (AVD) Manager to start an
+emulator then run command :
+
+                  flutter run
+
+                  
 5. to fully use the live system stream - connect it to a server to actually start streaming

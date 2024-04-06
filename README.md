@@ -23,11 +23,14 @@ MAC command : (in the root directory)
 
                   open -a simulator
 
-// wait for it to load
+
 
                   flutter run
 
+
+
 for android/ windows :
+
 If you're planning to run the project on an emulator or physical device, ensure that it is
 properly configured and connected to your development machine.
  For Android:

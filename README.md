@@ -1,16 +1,22 @@
 Empower your coaching sessions with AI intelligence for optimized guidance and impactful outcomes - all in one convenient Flutter app.
 # Coach Buddy Live Stream System 
 
-1. create a new flutter project :
+## FLUTTER
 
-   For Windows :
-   https://medium.com/@m.yuvaraj2303/flutter-programming-for-android-with-vscode-instead-of-using-android-studio-in-windows-af20f2d67e81
+### Installation Steps:
 
-   For mac :
-   https://wahyu-ehs.medium.com/setup-flutter-on-mac-with-vscode-editor-3b9653773e85
-   
-2. add the given lib files to your projects lib folder
-3. compare the pubspec.yaml file in your project and update according to the pubspec.yaml file given in the github code
+1. Create a new Flutter project.
+   - For Windows: [Setup Guide](https://medium.com/@m.yuvaraj2303/flutter-programming-for-android-with-vscode-instead-of-using-android-studio-in-windows-af20f2d67e81)
+   - For Mac: [Setup Guide](https://wahyu-ehs.medium.com/setup-flutter-on-mac-with-vscode-editor-3b9653773e85)
+
+2. Add the given `lib` folder files into the `lib` folder.
+
+3. Add dependencies mentioned in `pubspec.yaml` file:
+   - Install the Pubspec Assist (VS Code Extension) if not already installed.
+   - Open your project in Visual Studio Code.
+   - Open `pubspec.yaml` file and add dependencies using Pubspec Assist.
+   - Follow the instructions prompted by Pubspec Assist to add dependencies.
+     
 4. now you can test the app
 
 Running the Project:

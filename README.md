@@ -45,3 +45,12 @@ emulator then run command :
                   
 5. to fully use the live system stream - connect it to a server to actually start streaming
 
+Contributors
+------------
+
+- Khushboo Shrivastava
+
+License
+-------
+
+This project is licensed under the [MIT License](LICENSE).
